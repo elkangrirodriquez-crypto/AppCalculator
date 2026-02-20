@@ -53,6 +53,7 @@ body {
   position: absolute;
   left: 3px;
   transition: 0.3s;
+  background: #d03f2f;
 }
 
 .screen {
@@ -182,3 +183,4 @@ box-shadow: 0 4px #e6e6e6;
 body.theme3 .buttons {
   background: #1d0934;
 }
+
